@@ -1,5 +1,6 @@
-hello_t(["Tim", "Tom", "Jim"]) do |name|
-  if name.s
+def hello_t
+
 end
+
 # call your method here!
 
