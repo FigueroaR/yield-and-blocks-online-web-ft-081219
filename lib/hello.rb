@@ -1,4 +1,4 @@
-def hello_t(arra)
+def hello_t(array)
   hello_t.each 
 end
 
